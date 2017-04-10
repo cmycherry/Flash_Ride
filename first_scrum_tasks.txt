@@ -1,0 +1,56 @@
+# List of Tasks for First Scrum #
+
+### Charging function ###
+
+  - Research how rechargeable batteries work and whether we can make a USB
+    charger built in so we don't have to remove the batteries
+  - Acquire batteries
+  - Acquire female mini-USB connector
+  - Assemble charging circuit
+
+### Brake light switch and cable ###
+
+  - Research what kind of switch to use to actuate light
+      * Easy to press with a finger
+      * Goes on when pressed, off when released
+      * (Possibly) has several settings (for future versions)
+  - Acquire switch
+  - Research what kind of cable we need to connect switch to helmet
+      * Flexible
+      * Durable
+      * Protected from short-circuits (no exposed wires)
+  - Determine length of cable needed for a typical situation
+  - Acquire cable
+
+### Brake light (first prototype: off-the-shelf solution from Planet Bike) ###
+
+  - Figure out how the light works
+  - Figure out how to incorporate recharging into the circuit (see Charging
+    above)
+  - Find out how to make the handlebar switch work with the circuit inside the
+    light (the current switch is a button-toggle with 3 settings: off, solid on,
+    and flash)
+  - Acquire any electronic components needed
+  - Assemble the circuit
+
+### Location tracker app ###
+
+  - Make a wireframe illustrating basic functionality
+
+### Handlebar attachment ###
+
+  - Determine 3 methods for attaching switch to handlebars
+      * Weatherproof
+      * Easy to remove
+  - Decide which method is best for first prototype (possibly with input from
+    users)
+  - Acquire or create handlebars for testing
+  - Implement that method
+
+### Helmet attachment ###
+
+  - Determine 3 methods for attaching light to helmet
+  - Decide which method is best for first prototype (possibly with input from
+    users)
+  - Acquire or create a helmet for testing
+  - Implement that method
